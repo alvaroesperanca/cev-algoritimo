@@ -9,3 +9,10 @@ Operadores:
 \ : Divisão Inteira  
 ^ : Exponenciação  
 % : Módulo  
+
+Tipos:
+
+* Inteiro
+* Real / Numerico
+* Literal / Caractere
+* Logico
