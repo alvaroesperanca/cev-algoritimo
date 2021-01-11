@@ -1,5 +1,12 @@
 Curso de algorítimo do Curso em Vídeo
 
+Tipos:
+
+* Inteiro
+* Real / Numerico
+* Literal / Caractere
+* Logico
+
 Operadores:
 
 \+  : Adição  
@@ -10,9 +17,10 @@ Operadores:
 ^ : Exponenciação  
 % : Módulo  
 
-Tipos:
 
-* Inteiro
-* Real / Numerico
-* Literal / Caractere
-* Logico
+Ordem de precedência
+
+* () : Parênteses
+* ^ : Exponenciação
+* \* / : Multiplicação / Divisão
+* +- : Adição / Subtração
